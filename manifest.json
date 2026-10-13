@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Quick Search and Close",
-  "version": "1.3",
+  "version": "1.4",
   "description": "Select or hover any word, then press W to search Google, E to ask Gemini, Q to close the tab, or D to open Gemini popup.",
   "icons": {
     "16": "icons/icon16.png",
